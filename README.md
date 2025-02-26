@@ -1,4 +1,4 @@
-this is mri project on 4 lasses dataset 
+this is mri project on 4 classes dataset 
 1. glioma
 
 2. meningioma
