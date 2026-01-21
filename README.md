@@ -14,4 +14,6 @@ notebooks details:
 4. main.py is code for flask app on this backend
 ________
 1. 2026-01-20
+2. 2026-01-21
+3. 
 
